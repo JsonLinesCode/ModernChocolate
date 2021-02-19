@@ -8,7 +8,7 @@ I'm a french young developer. I am a keen design enthusiast and interested in AI
 * [A C# updater for the super popular Taokann's game Jumpy](https://jumpy.taokann.one/updater/)
 
 ## What I like to do
-* I'm currently learning and coding in Dart, which is a JavaScript-like language, but I've started by C# and web languages (I will also start to learn lowest level languages).
+* I'm currently learning and coding in Dart, which is a JavaScript-like language, but I've started with C# and web languages (I will also start to learn lowest level languages).
 * I also like design, video editing, and music 
 
 ## 📈 Stats
