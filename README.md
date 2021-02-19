@@ -4,7 +4,7 @@ I'm a french young developer. I am a keen design enthusiast and interested in AI
 
 ## What I have worked on
 
-* [An amazing school life mobile application replacing the popular ones](https:ynotes.fr)
+* [An amazing school life mobile application replacing the popular ones](https://ynotes.fr)
 * [A C# updater for the super popular Taokann's game Jumpy](https://jumpy.taokann.one/updater/)
 
 ## What I like to do
