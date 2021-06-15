@@ -14,3 +14,5 @@ I'm a french young developer. I am a keen design enthusiast and interested in AI
 ## 📈 Stats
 ![ModernChocolate's GitHub stats](https://github-readme-stats.vercel.app/api?username=modernchocolate&show_icons=true&theme=radical)
 
+## Contact me
+My Discord username : JsonLines#0001
